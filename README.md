@@ -73,7 +73,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git https://github.com/Shahid-Bagwan/[name of repo]
+  git https://github.com/Shahid-Bagwan/Netflix-Fav_List
 ```
 
 
