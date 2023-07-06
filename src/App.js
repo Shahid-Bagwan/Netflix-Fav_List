@@ -17,7 +17,7 @@ const shah = (val) => {
 function App(){
   return (
       <>
-      <h1 className="heading_style">Top 5 Series. Mah Fav</h1>
+      <h1 className="heading_style">Top Rated Series On the Netflix</h1>
       <div>
 
       {Sdata.map(shah)}
