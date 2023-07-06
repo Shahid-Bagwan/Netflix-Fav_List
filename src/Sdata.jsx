@@ -40,27 +40,6 @@ const Sdata = [{
     name : "House oF The Dragon",
     link : "https://www.netflix.com/in/title/80100172?source=35"
 },
-{
-    id :5,
-    imgsrc:"https://resizing.flixster.com/QrT-Krzry3Ikh6cH4u9bHCYH_6w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNGZmZmJkN2YtZDA4YS00ZjkzLWE3OTMtNTgyNDE5NWM3YjhmLmpwZw==",
-    title : "A Netflix orignal Series",
-    name : "House oF The Dragon",
-    link : "https://www.netflix.com/in/title/80100172?source=35"
-},
-{
-    id :5,
-    imgsrc:"https://resizing.flixster.com/QrT-Krzry3Ikh6cH4u9bHCYH_6w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNGZmZmJkN2YtZDA4YS00ZjkzLWE3OTMtNTgyNDE5NWM3YjhmLmpwZw==",
-    title : "A Netflix orignal Series",
-    name : "House oF The Dragon",
-    link : "https://www.netflix.com/in/title/80100172?source=35"
-},
-{
-    id :5,
-    imgsrc:"https://resizing.flixster.com/QrT-Krzry3Ikh6cH4u9bHCYH_6w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNGZmZmJkN2YtZDA4YS00ZjkzLWE3OTMtNTgyNDE5NWM3YjhmLmpwZw==",
-    title : "A Netflix orignal Series",
-    name : "House oF The Dragon",
-    link : "https://www.netflix.com/in/title/80100172?source=35"
-},
 ]
 
 export default Sdata;

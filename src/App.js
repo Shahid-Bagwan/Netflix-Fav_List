@@ -18,7 +18,10 @@ function App(){
   return (
       <>
       <h1 className="heading_style">Top 5 Series. Mah Fav</h1>
+      <div>
+
       {Sdata.map(shah)}
+      </div>
       </>
   )
 }
