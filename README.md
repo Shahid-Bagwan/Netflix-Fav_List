@@ -22,7 +22,7 @@
 
 A website to display the favourite movies, series from netflix using React. 
 
-<img src="./netflix.gif"/>
+<img src="./favlist.gif"/>
 
 ## 🛠 Built With <a name="built-with"></a>
 
